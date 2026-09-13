@@ -20,10 +20,10 @@ Before visualization, the raw dataset required cleaning:
 3. **Yearly Funding Trend (Line Chart)** — Tracks how total funding has evolved over time.
 
 # Key Insights
-- **Bangalore** dominates as India's top startup funding hub, receiving significantly more funding (~₹20bn+) than any other city, followed by Mumbai, New Delhi, and Gurgaon
-- **Ecommerce** (19.47%) and **Consumer Internet** (16.98%) are the top two industry verticals by funding share, together accounting for over a third of total startup funding
-- The total funding tracked across the dataset stands at **₹37bn**, spread across multiple industries and 40+ cities
-- Yearly funding trend (2015–2020) shows high volatility, with major peaks around **2017** and **2019**, and a sharp decline going into **2020**
+- Bangalore dominates as India's top startup funding hub, receiving significantly more funding than any other city, followed by Mumbai, New Delhi, and Gurgaon (based on top 10 funded cities)
+Among the top 10 funded industries, Ecommerce (27.75%) and Consumer Internet (24.2%) lead by a wide margin, together accounting for over half of the top-industry funding
+The total funding tracked across the full dataset stands at ₹37bn, spread across multiple industries and 40+ cities
+Yearly funding trend (2015–2020) shows high volatility, with major peaks around 2017 and 2019, and a sharp decline going into 2020
 
 # Tools Used
 - Power BI Desktop
